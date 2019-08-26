@@ -1,0 +1,3 @@
+[submodule "AAA"]
+	path = AAA
+	url = https://github.com/sugarlabs/olpc-os-builder.git
